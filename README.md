@@ -1,0 +1,2 @@
+# uzak_kampus
+Dutluk
