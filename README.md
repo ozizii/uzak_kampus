@@ -1,2 +1,4 @@
-# uzak_kampus
+# Uzak_Kampus
 Dutluk
+# Author
+Anonim
