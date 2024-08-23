@@ -1,4 +1,7 @@
-# Uzak_Kampus
+# Uzak Kampüs
+
 Dutluk
+
 # Author
+
 Anonim
